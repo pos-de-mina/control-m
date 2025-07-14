@@ -1,0 +1,77 @@
+# Tarefas Projeto
+
+- [ ] Criar Plano de Trabalho
+- [ ] Criar Arquitetura de Projeto
+- [ ] Preparação do Ambiente de QUA
+- [ ] Preparação do Ambiente de PRD
+- [ ] Validação dos requisitos de sistema (OS version, CPU, RAM, Disk)
+- [ ] Instalação QUA
+  - [ ] Control-M/Enterprise Edition
+	  - [ ] Instalação de EM nó 1
+	  - [ ] Instalação de HA EM
+	- [ ] Control-M/Server
+    - [ ] Instalação de Server nó 1
+	- [ ] Control-M/Agent (local)
+    - [ ] Instalação de Agent nó 1
+	  - [ ] Instalação de Plugins nó 1
+	- [ ] Validação de Nó 1
+	- [ ] Instalação de HA Server
+	- [ ] Instalação de Agent nó 2
+	- [ ] Instalação de Plugins nó 2
+	- [ ] Validar e fechar Ambiente QUA
+	- [ ] Documentação Manual de Instalação QUA
+- [ ] Instalação PRD
+	- [ ] Instalação de EM nó 1
+	- [ ] Instalação de Server nó 1
+	- [ ] Instalação de Agent nó 1
+	- [ ] Validação de Nó 1
+	- [ ] Instalação de HA EM
+	- [ ] Instalação de HA Server
+	- [ ] Instalação de Agent nó 2
+	- [ ] Instalação de Plugins nó 1
+	- [ ] Instalação de Plugins nó 2
+	- [ ] Instalação de Workload Archiving
+	- [ ] Validar e fechar Ambiente 
+	- [ ] Documentação Manual de Instalação PRD
+- [ ] Migração - 04/08
+	- [ ] Testes de Migração Ambiente de QUA
+	- [ ] Plano de Cutover QUA
+	- [ ] Cutover QUA
+	- [ ] Validação de ambiente QUA
+	- [ ] Documentação Cutover QUA
+	- [ ] Testes de Migração Ambiente de PRD
+	- [ ] Plano de Cutover PRD
+	- [ ] Cutover PRD
+	- [ ] Validação de ambiente PRD
+	- [ ] Documentação Cutover PRD
+- [ ] In-Place Upgrade 9.0.21.300
+	- [ ] Upgrade EM nó1
+	- [ ] Upgrade Server nó1
+	- [ ] Upgrade Agente nó1
+	- [ ] Upgrade EM nó2
+	- [ ] Upgrade Server nó2
+	- [ ] Upgrade Agente nó2
+	- [ ] Upgrade de Plugins
+	- [ ] Documentação de Upgrade QUA
+	- [ ] Upgrade EM nó1
+	- [ ] Upgrade de Plugins
+	- [ ] Upgrad e Server nó1
+	- [ ] Upgrade Agente nó1
+	- [ ] Documentação de Upgrade PRD
+- [ ] In-Place Upgrade 9.0.22.00 (Opcional)
+	- [ ] Upgrade EM nó1
+	- [ ] Upgrade Server nó1
+	- [ ] Upgrade Agente nó1
+	- [ ] Upgrade EM nó2
+	- [ ] Upgrade Server nó2
+	- [ ] Upgrade Agente nó2
+	- [ ] Upgrade de Plugins
+	- [ ] Documentação de Upgrade QUA
+	- [ ] Upgrade EM nó1
+	- [ ] Upgrade Server nó1
+	- [ ] Upgrade Agente nó1
+	- [ ] Upgrade EM nó2
+	- [ ] Upgrade Server nó2
+	- [ ] Upgrade Agente nó2
+	- [ ] Upgrade de Plugins
+	- [ ] Documentação de Upgrade PRD
